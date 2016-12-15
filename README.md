@@ -1,2 +1,2 @@
-# hobb
-Hobb-bro
+# training course
+Training course
